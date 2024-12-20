@@ -1,2 +1,2 @@
 # Programming-Projects
-Various programming projects I have been a part of!
+A showcase of programming projects I've completed or contributed to!
