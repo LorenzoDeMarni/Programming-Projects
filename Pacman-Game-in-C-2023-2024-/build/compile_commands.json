@@ -1,0 +1,62 @@
+[
+{
+  "directory": "C:/Users/Lorenzo DeMarni/Documents/Pacman-Game-in-C-2023-2024-/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe   -Werror=vla -Wall -pedantic -Wno-format -Wno-unused-parameter -fexceptions -fstack-protector-strong -std=c99 -Wextra -Werror=implicit-function-declaration -g -std=gnu11 -o CMakeFiles\\project.dir\\apsc142project.c.obj -c \"C:\\Users\\Lorenzo DeMarni\\Documents\\Pacman-Game-in-C-2023-2024-\\apsc142project.c\"",
+  "file": "C:/Users/Lorenzo DeMarni/Documents/Pacman-Game-in-C-2023-2024-/apsc142project.c",
+  "output": "CMakeFiles/project.dir/apsc142project.c.obj"
+},
+{
+  "directory": "C:/Users/Lorenzo DeMarni/Documents/Pacman-Game-in-C-2023-2024-/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe   -Werror=vla -Wall -pedantic -Wno-format -Wno-unused-parameter -fexceptions -fstack-protector-strong -std=c99 -Wextra -Werror=implicit-function-declaration -g -std=gnu11 -o CMakeFiles\\project.dir\\colours.c.obj -c \"C:\\Users\\Lorenzo DeMarni\\Documents\\Pacman-Game-in-C-2023-2024-\\colours.c\"",
+  "file": "C:/Users/Lorenzo DeMarni/Documents/Pacman-Game-in-C-2023-2024-/colours.c",
+  "output": "CMakeFiles/project.dir/colours.c.obj"
+},
+{
+  "directory": "C:/Users/Lorenzo DeMarni/Documents/Pacman-Game-in-C-2023-2024-/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe   -Werror=vla -Wall -pedantic -Wno-format -Wno-unused-parameter -fexceptions -fstack-protector-strong -std=c99 -Wextra -Werror=implicit-function-declaration -g -std=gnu11 -o CMakeFiles\\project.dir\\map.c.obj -c \"C:\\Users\\Lorenzo DeMarni\\Documents\\Pacman-Game-in-C-2023-2024-\\map.c\"",
+  "file": "C:/Users/Lorenzo DeMarni/Documents/Pacman-Game-in-C-2023-2024-/map.c",
+  "output": "CMakeFiles/project.dir/map.c.obj"
+},
+{
+  "directory": "C:/Users/Lorenzo DeMarni/Documents/Pacman-Game-in-C-2023-2024-/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe   -Werror=vla -Wall -pedantic -Wno-format -Wno-unused-parameter -fexceptions -fstack-protector-strong -std=c99 -Wextra -Werror=implicit-function-declaration -g -std=gnu11 -o CMakeFiles\\project.dir\\game.c.obj -c \"C:\\Users\\Lorenzo DeMarni\\Documents\\Pacman-Game-in-C-2023-2024-\\game.c\"",
+  "file": "C:/Users/Lorenzo DeMarni/Documents/Pacman-Game-in-C-2023-2024-/game.c",
+  "output": "CMakeFiles/project.dir/game.c.obj"
+},
+{
+  "directory": "C:/Users/Lorenzo DeMarni/Documents/Pacman-Game-in-C-2023-2024-/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe   -Werror=vla -Wall -pedantic -Wno-format -Wno-unused-parameter -fexceptions -fstack-protector-strong -std=c99 -Wextra -Werror=implicit-function-declaration -g -std=gnu11 -o CMakeFiles\\project.dir\\ghost.c.obj -c \"C:\\Users\\Lorenzo DeMarni\\Documents\\Pacman-Game-in-C-2023-2024-\\ghost.c\"",
+  "file": "C:/Users/Lorenzo DeMarni/Documents/Pacman-Game-in-C-2023-2024-/ghost.c",
+  "output": "CMakeFiles/project.dir/ghost.c.obj"
+},
+{
+  "directory": "C:/Users/Lorenzo DeMarni/Documents/Pacman-Game-in-C-2023-2024-/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -Wall -pedantic -Wno-format -Wno-unused-parameter -fexceptions -fstack-protector-strong -g -o CMakeFiles\\tests.dir\\tests.cpp.obj -c \"C:\\Users\\Lorenzo DeMarni\\Documents\\Pacman-Game-in-C-2023-2024-\\tests.cpp\"",
+  "file": "C:/Users/Lorenzo DeMarni/Documents/Pacman-Game-in-C-2023-2024-/tests.cpp",
+  "output": "CMakeFiles/tests.dir/tests.cpp.obj"
+},
+{
+  "directory": "C:/Users/Lorenzo DeMarni/Documents/Pacman-Game-in-C-2023-2024-/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe   -Werror=vla -Wall -pedantic -Wno-format -Wno-unused-parameter -fexceptions -fstack-protector-strong -std=c99 -Wextra -Werror=implicit-function-declaration -g -std=gnu11 -o CMakeFiles\\tests.dir\\colours.c.obj -c \"C:\\Users\\Lorenzo DeMarni\\Documents\\Pacman-Game-in-C-2023-2024-\\colours.c\"",
+  "file": "C:/Users/Lorenzo DeMarni/Documents/Pacman-Game-in-C-2023-2024-/colours.c",
+  "output": "CMakeFiles/tests.dir/colours.c.obj"
+},
+{
+  "directory": "C:/Users/Lorenzo DeMarni/Documents/Pacman-Game-in-C-2023-2024-/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe   -Werror=vla -Wall -pedantic -Wno-format -Wno-unused-parameter -fexceptions -fstack-protector-strong -std=c99 -Wextra -Werror=implicit-function-declaration -g -std=gnu11 -o CMakeFiles\\tests.dir\\map.c.obj -c \"C:\\Users\\Lorenzo DeMarni\\Documents\\Pacman-Game-in-C-2023-2024-\\map.c\"",
+  "file": "C:/Users/Lorenzo DeMarni/Documents/Pacman-Game-in-C-2023-2024-/map.c",
+  "output": "CMakeFiles/tests.dir/map.c.obj"
+},
+{
+  "directory": "C:/Users/Lorenzo DeMarni/Documents/Pacman-Game-in-C-2023-2024-/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe   -Werror=vla -Wall -pedantic -Wno-format -Wno-unused-parameter -fexceptions -fstack-protector-strong -std=c99 -Wextra -Werror=implicit-function-declaration -g -std=gnu11 -o CMakeFiles\\tests.dir\\game.c.obj -c \"C:\\Users\\Lorenzo DeMarni\\Documents\\Pacman-Game-in-C-2023-2024-\\game.c\"",
+  "file": "C:/Users/Lorenzo DeMarni/Documents/Pacman-Game-in-C-2023-2024-/game.c",
+  "output": "CMakeFiles/tests.dir/game.c.obj"
+},
+{
+  "directory": "C:/Users/Lorenzo DeMarni/Documents/Pacman-Game-in-C-2023-2024-/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe   -Werror=vla -Wall -pedantic -Wno-format -Wno-unused-parameter -fexceptions -fstack-protector-strong -std=c99 -Wextra -Werror=implicit-function-declaration -g -std=gnu11 -o CMakeFiles\\tests.dir\\ghost.c.obj -c \"C:\\Users\\Lorenzo DeMarni\\Documents\\Pacman-Game-in-C-2023-2024-\\ghost.c\"",
+  "file": "C:/Users/Lorenzo DeMarni/Documents/Pacman-Game-in-C-2023-2024-/ghost.c",
+  "output": "CMakeFiles/tests.dir/ghost.c.obj"
+}
+]

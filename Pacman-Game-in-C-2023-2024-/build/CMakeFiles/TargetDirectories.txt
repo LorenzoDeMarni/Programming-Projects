@@ -1,0 +1,4 @@
+C:/Users/Lorenzo DeMarni/Documents/Pacman-Game-in-C-2023-2024-/build/CMakeFiles/project.dir
+C:/Users/Lorenzo DeMarni/Documents/Pacman-Game-in-C-2023-2024-/build/CMakeFiles/tests.dir
+C:/Users/Lorenzo DeMarni/Documents/Pacman-Game-in-C-2023-2024-/build/CMakeFiles/edit_cache.dir
+C:/Users/Lorenzo DeMarni/Documents/Pacman-Game-in-C-2023-2024-/build/CMakeFiles/rebuild_cache.dir
